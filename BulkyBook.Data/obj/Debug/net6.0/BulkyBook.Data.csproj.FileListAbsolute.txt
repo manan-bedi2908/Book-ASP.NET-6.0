@@ -1,0 +1,14 @@
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\bin\Debug\net6.0\BulkyBook.Data.deps.json
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\bin\Debug\net6.0\BulkyBook.Data.runtimeconfig.json
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\bin\Debug\net6.0\BulkyBook.Data.dll
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\bin\Debug\net6.0\ref\BulkyBook.Data.dll
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\bin\Debug\net6.0\BulkyBook.Data.pdb
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\obj\Debug\net6.0\BulkyBook.Data.csproj.AssemblyReference.cache
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\obj\Debug\net6.0\BulkyBook.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\obj\Debug\net6.0\BulkyBook.Data.AssemblyInfoInputs.cache
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\obj\Debug\net6.0\BulkyBook.Data.AssemblyInfo.cs
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\obj\Debug\net6.0\BulkyBook.Data.csproj.CoreCompileInputs.cache
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\obj\Debug\net6.0\BulkyBook.Data.dll
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\obj\Debug\net6.0\ref\BulkyBook.Data.dll
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\obj\Debug\net6.0\BulkyBook.Data.pdb
+C:\Users\Manan Bedi\Desktop\BulkyBook\BulkyBook.Data\obj\Debug\net6.0\BulkyBook.Data.genruntimeconfig.cache
